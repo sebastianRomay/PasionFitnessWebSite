@@ -1,0 +1,40 @@
+.w-nav {
+    width: 100%!important;
+    margin-top: 4rem;
+}
+
+.bg-nav {
+    background-color: transparent;
+}
+
+.navbar-toggler {
+    border: none!important;
+}
+.navbar-toggler:focus {
+    box-shadow: none!important;
+}
+
+.logo-texto {
+    font-family: $fuente-logo-uno;
+    text-align: center;
+    color: $violeta;
+}
+.logo-texto-segundo {
+        font-family: $fuente-logo-dos;
+        text-align: center;
+        letter-spacing: 5px;
+        color: #fff;
+}
+
+h1, h2, h3 , h4, h5 ,h6 {
+    line-height: .7!important;
+}
+.offcanvas-backdrop.show {
+    opacity: 0!important; 
+}
+
+.nav-enlace {
+    color: #fff!important;
+    font-size: 1.3rem;
+    margin-top: 2rem;
+}
