@@ -5,3 +5,9 @@
 @import './Header/header';
 @import './Main/main';
 @import './Section/section';
+@import './Map/map';
+@import './Redes/redes';
+
+body {
+    overflow-x: hidden;
+}
