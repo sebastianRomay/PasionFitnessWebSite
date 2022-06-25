@@ -17,6 +17,24 @@
         font-size: 1.5rem;
         font-family: $fuente-logo-dos;
         color: #fff;
+    }
+    .text-hora {
+        font-size: 1.5rem;
+        font-family: $fuente-logo-dos;
+        color: #fff;
         text-shadow: 0 0 10px #fff;
+    }
+
+    .text-cupos {
+        margin-top: 10rem;
+        font-family: $roboto;
+    }
+    .text-hor {
+        font-size: 1.5rem;
+        font-family: $fuente-logo-dos;
+        color: #fff;
+    }
+    a{
+        font-family: $roboto;
     }
 }
